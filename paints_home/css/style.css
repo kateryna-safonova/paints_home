@@ -1,0 +1,120 @@
+header {
+    background-image: url(/image/paints_header.png);
+    background-repeat: no-repeat;
+    height: 783px;
+    width: 1183px;
+    margin: 0 auto;
+    
+}
+.first_header {
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.one_header {
+    display: flex;
+    width: 200px;
+    justify-content: space-around;
+    list-style-type: none;
+    font-family: Roboto;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-size: 10px;
+    text-transform: uppercase;
+    margin: 23px 42px;
+}
+.header-title {
+    width: 410px;
+    height: 197px; 
+    margin: 69px 42px;
+}
+h1 {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 63px;
+    font-weight: 400;
+    line-height: 65.63px;
+}
+.header_button {
+    font-family: Roboto;
+    font-size: 9px;
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    line-height: 9.17px;
+    width: 200px;
+    height: 37px;
+    margin-left: 42px;
+    background-color: #1F1E1E;
+}
+.information_header {
+    width: 286px;
+    display: block;
+    margin-left: 70%;
+    margin-top: 15%;
+
+}
+.title_information {
+    font-family: Roboto;
+    font-size: 11px;
+    font-weight: 400;
+    color: #3C3C3C;
+    text-transform: uppercase;
+}
+.subtitle-information {
+    margin: 18px 0;
+    font-family: Roboto;
+    font-size: 9px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color:#3C3C3C;
+}
+.choose_information {
+    display: flex;
+    justify-content: space-around;
+}
+.manage_information {
+    font-family: Roboto;
+    font-size: 8px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #1F1E1E;
+}
+.accept_information {
+    font-family: Roboto;
+    font-size: 8px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.positive_information{
+    width: 1183px;
+    margin: 0 auto;
+    padding: 59px 0 53px 0;
+}
+.positive_numbers {
+    display: flex;
+    justify-content: space-around;
+
+}
+.positive_number {
+    display: flex;
+    width: 150px;
+    justify-content: space-around;
+
+}
+.title_positive {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    color: #3C3C3C;
+}
+.text_positive{
+    font-family: Roboto;
+    font-size: 9px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #3C3C3C;
+}
